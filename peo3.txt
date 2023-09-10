@@ -12,5 +12,8 @@ Con git rm eliminamos un archivo de Git, pero mantenemos su historial de cambios
 
 Empleando git reset HEAD, movemos los cambios de Staging a Unstaged, pero mantenemos el archivo en el repositorio con los últimos cambios en los que hicimos commit. Así, no perdemos nada relevante.
 
-Siguientes pasos
+Siguientes pasosz
 Bueno, todos los cambios están en el área de Staging, incluido el archivo con los cambios que no están listos. Esto significa que debemos sacar ese archivo de Staging para poder hacer commit de todos los demás.
+
+//////////////////////////////////////////////
+pruebas desde laptop 
